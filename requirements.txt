@@ -1,0 +1,14 @@
+urllib3
+flask
+Werkzeug
+opencv-python
+Wand
+times
+numpy
+pytesseract
+jsons
+regex
+tesseract
+img2pdf
+foliantcontrib.imagemagick
+pdf2image
